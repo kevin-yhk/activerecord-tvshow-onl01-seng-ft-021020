@@ -1,4 +1,4 @@
 class Show < ActiveRecord::Base 
   
-  def 
+  def Show::
 end 
